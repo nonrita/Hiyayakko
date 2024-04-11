@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "312902795955",
+    "project_id": "hiyayakko-v2",
+    "storage_bucket": "hiyayakko-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312902795955:android:7af698d317acf4aa65a6c6",
+        "android_client_info": {
+          "package_name": "com.example.hiyayakko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312902795955-minccupg0e4r3njv45tptta0cp4qsdnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD255Wl1lDS0cjsXLTnHZsDzZ67-f8fPtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312902795955-minccupg0e4r3njv45tptta0cp4qsdnd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312902795955-daeeb23q4o6908upkd2l28784k7pt1ja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hiyayakko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
